@@ -6,7 +6,7 @@
 </p>
 
 ## Description
-The code creates a bluetoth bispositive that emulates the keyboard
+The code creates a bluetooth bispositive that emulates the keyboard
 ## Features
 | **Feature**                  | **Description**                                                                 |
 |------------------------------|---------------------------------------------------------------------------------|
@@ -20,7 +20,7 @@ The code creates a bluetoth bispositive that emulates the keyboard
 ## WHAT YOU CAN CHANGE
 Inside the code you can change
 - The button pin for trigger the emulation
-- The name that the bluetoth device will have
+- The name that the bluetooth device will have
 - The message you will send
 - Ande the specific key you want emulate
 ```cpp
